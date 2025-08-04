@@ -55,7 +55,7 @@ for (let i = 0; i < projects.length; i += 1) {
   const projectContainer = document.createElement('div');
   projectContainer.innerHTML = ` <div class="project-snapshot ${i % 2 !== 0 ? 'odd' : ''}">
     <a href="">
-      <img src="assets/img/projects/${projects[i].thumbnail.featured}" alt=${projects[i].name} />
+      <img src="assets/projects/${projects[i].thumbnail.featured}" alt=${projects[i].name} />
     </a>
   </div>
   <div class="project-content">
