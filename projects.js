@@ -23,7 +23,7 @@ const projects = [
       detailed: 'codekenya.png',
     },
     liveUrl: 'https://www.codekenya.org/about-us',
-    sourceCode: '',
+    sourceCode: 'https://github.com/T-Stevan/sample-portfolio',
   },
   {
     name: 'Usa Prospects Agent',
@@ -47,7 +47,7 @@ const projects = [
       detailed: 'usapp.png',
     },
     liveUrl: 'https://www.usaprospectsagent.com/',
-    sourceCode: '',
+    sourceCode: 'https://github.com/T-Stevan/sample-portfolio',
   },
 ];
 
