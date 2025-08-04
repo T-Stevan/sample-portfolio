@@ -119,7 +119,7 @@ function createPopup(position) {
     </div>
     <div class="popup-snapshot">
       <a href="">
-        <img src=assets/img/projects/${projects[position].thumbnail.detailed} alt=${projects[position].name} />
+        <img src=assets/projects/${projects[position].thumbnail.detailed} alt=${projects[position].name} />
       </a>
     </div>
     <div class="popup-content">
